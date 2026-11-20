@@ -1,0 +1,218 @@
+{
+  "champion_model_name": "Soft Voting Ensemble",
+  "model_name": "Soft Voting Ensemble",
+  "tournament_leaderboard": [
+    {
+      "model_name": "Soft Voting Ensemble",
+      "test_accuracy": 88.37,
+      "macro_f1": 86.86,
+      "cv_accuracy_mean": 85.02,
+      "cv_accuracy_std": 4.24,
+      "fit_time_ms": 26.0
+    },
+    {
+      "model_name": "Logistic Regression (Balanced)",
+      "test_accuracy": 83.72,
+      "macro_f1": 82.05,
+      "cv_accuracy_mean": 84.06,
+      "cv_accuracy_std": 3.35,
+      "fit_time_ms": 12.2
+    },
+    {
+      "model_name": "Calibrated Linear SVM",
+      "test_accuracy": 83.72,
+      "macro_f1": 82.05,
+      "cv_accuracy_mean": 84.03,
+      "cv_accuracy_std": 2.34,
+      "fit_time_ms": 33.3
+    },
+    {
+      "model_name": "Complement Naive Bayes",
+      "test_accuracy": 83.72,
+      "macro_f1": 81.75,
+      "cv_accuracy_mean": 82.66,
+      "cv_accuracy_std": 4.0,
+      "fit_time_ms": 11.4
+    },
+    {
+      "model_name": "Multinomial Naive Bayes",
+      "test_accuracy": 81.4,
+      "macro_f1": 79.09,
+      "cv_accuracy_mean": 80.78,
+      "cv_accuracy_std": 2.57,
+      "fit_time_ms": 13.5
+    }
+  ],
+  "training_samples": 170,
+  "test_samples": 43,
+  "test_accuracy": 0.8837,
+  "cv_mean_accuracy": 0.8502,
+  "cv_std_accuracy": 0.0424,
+  "classification_report": {
+    "negative": {
+      "precision": 0.9333333333333333,
+      "recall": 0.9333333333333333,
+      "f1-score": 0.9333333333333333,
+      "support": 15.0
+    },
+    "neutral": {
+      "precision": 0.85,
+      "recall": 0.9444444444444444,
+      "f1-score": 0.8947368421052632,
+      "support": 18.0
+    },
+    "positive": {
+      "precision": 0.875,
+      "recall": 0.7,
+      "f1-score": 0.7777777777777778,
+      "support": 10.0
+    },
+    "accuracy": 0.8837209302325582,
+    "macro avg": {
+      "precision": 0.8861111111111111,
+      "recall": 0.8592592592592592,
+      "f1-score": 0.8686159844054581,
+      "support": 43.0
+    },
+    "weighted avg": {
+      "precision": 0.8848837209302325,
+      "recall": 0.8837209302325582,
+      "f1-score": 0.8810009519923839,
+      "support": 43.0
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "matrix": [
+      [
+        7,
+        3,
+        0
+      ],
+      [
+        0,
+        17,
+        1
+      ],
+      [
+        1,
+        0,
+        14
+      ]
+    ]
+  },
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "top_features": {
+    "negative": [
+      {
+        "word": "bug",
+        "weight": 0.8316
+      },
+      {
+        "word": "broken",
+        "weight": 0.7493
+      },
+      {
+        "word": "server",
+        "weight": 0.5655
+      },
+      {
+        "word": "severe",
+        "weight": 0.5455
+      },
+      {
+        "word": "throttling",
+        "weight": 0.4828
+      },
+      {
+        "word": "vendor",
+        "weight": 0.4794
+      },
+      {
+        "word": "unresponsive",
+        "weight": 0.4728
+      },
+      {
+        "word": "ticket",
+        "weight": 0.4726
+      }
+    ],
+    "neutral": [
+      {
+        "word": "python",
+        "weight": 0.785
+      },
+      {
+        "word": "kafka",
+        "weight": 0.5308
+      },
+      {
+        "word": "databricks",
+        "weight": 0.4903
+      },
+      {
+        "word": "dataengineering",
+        "weight": 0.4334
+      },
+      {
+        "word": "overview",
+        "weight": 0.4318
+      },
+      {
+        "word": "storage",
+        "weight": 0.415
+      },
+      {
+        "word": "medallion",
+        "weight": 0.4114
+      },
+      {
+        "word": "multi",
+        "weight": 0.4102
+      }
+    ],
+    "positive": [
+      {
+        "word": "aqe",
+        "weight": 0.5856
+      },
+      {
+        "word": "query",
+        "weight": 0.4973
+      },
+      {
+        "word": "well",
+        "weight": 0.4756
+      },
+      {
+        "word": "easy",
+        "weight": 0.4738
+      },
+      {
+        "word": "reduced",
+        "weight": 0.4644
+      },
+      {
+        "word": "times",
+        "weight": 0.463
+      },
+      {
+        "word": "engineering",
+        "weight": 0.4623
+      },
+      {
+        "word": "great",
+        "weight": 0.4576
+      }
+    ]
+  },
+  "trained_at": "2026-11-19T13:11:16Z"
+}

@@ -1,0 +1,2722 @@
+[
+  {
+    "post_id": "bsky_3001",
+    "post_text": "Vectorized transformations with Pandas 2.0 and Python 3.12 give us 2.5x throughput improvements without changing a single line of business logic. Loving this release! #llm #python",
+    "author_handle": "sarah_data_ai_70.bsky.social",
+    "created_at": "2026-10-30T12:16:27.614784+00:00",
+    "like_count": 334,
+    "repost_count": 70,
+    "reply_count": 75,
+    "hashtags": [
+      "llm",
+      "python",
+      "billing"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3002",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #complaint #devops",
+    "author_handle": "data_architect_emily_76.bsky.social",
+    "created_at": "2026-11-16T16:16:27.614784+00:00",
+    "like_count": 257,
+    "repost_count": 99,
+    "reply_count": 39,
+    "hashtags": [
+      "complaint",
+      "devops",
+      "opensource"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3003",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #opensource #databricks",
+    "author_handle": "spark_guru_53.bsky.social",
+    "created_at": "2026-10-30T18:16:27.614784+00:00",
+    "like_count": 1131,
+    "repost_count": 193,
+    "reply_count": 120,
+    "hashtags": [
+      "opensource",
+      "databricks",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3004",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #outage #bug",
+    "author_handle": "infra_lead_marcus_50.bsky.social",
+    "created_at": "2026-10-25T16:16:27.614784+00:00",
+    "like_count": 1268,
+    "repost_count": 235,
+    "reply_count": 271,
+    "hashtags": [
+      "outage",
+      "bug",
+      "python"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3005",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 34% and cost efficiency is through the roof. Fantastic work by the open source community! #cloud #machinelearning",
+    "author_handle": "devops_sam_57.bsky.social",
+    "created_at": "2026-10-05T11:16:27.614784+00:00",
+    "like_count": 363,
+    "repost_count": 78,
+    "reply_count": 48,
+    "hashtags": [
+      "cloud",
+      "machinelearning",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3006",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #aws #databricks",
+    "author_handle": "vector_builder_49.bsky.social",
+    "created_at": "2026-11-17T06:16:27.614784+00:00",
+    "like_count": 268,
+    "repost_count": 68,
+    "reply_count": 44,
+    "hashtags": [
+      "aws",
+      "databricks",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3007",
+    "post_text": "Ever since the latest deployment, our production Spark jobs are failing with OutOfMemory errors and 504 gateway timeouts. The dashboard is completely unresponsive and data pipelines are stalled. Critical bug! #aws #latency",
+    "author_handle": "vector_builder_24.bsky.social",
+    "created_at": "2026-10-30T08:16:27.614784+00:00",
+    "like_count": 52,
+    "repost_count": 15,
+    "reply_count": 11,
+    "hashtags": [
+      "aws",
+      "latency",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3008",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #bug #pyspark",
+    "author_handle": "infra_lead_marcus_12.bsky.social",
+    "created_at": "2026-11-19T03:16:27.614784+00:00",
+    "like_count": 69,
+    "repost_count": 13,
+    "reply_count": 15,
+    "hashtags": [
+      "bug",
+      "pyspark",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3009",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #llm #ai",
+    "author_handle": "devops_sam_44.bsky.social",
+    "created_at": "2026-10-14T03:16:27.614784+00:00",
+    "like_count": 390,
+    "repost_count": 96,
+    "reply_count": 61,
+    "hashtags": [
+      "llm",
+      "ai",
+      "nlp"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3010",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #bug #opensource #aws",
+    "author_handle": "tech_critic_dan_28.bsky.social",
+    "created_at": "2026-11-10T07:16:27.614784+00:00",
+    "like_count": 172,
+    "repost_count": 54,
+    "reply_count": 30,
+    "hashtags": [
+      "bug",
+      "opensource",
+      "aws"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3011",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #pyspark #nlp",
+    "author_handle": "sarah_data_ai_96.bsky.social",
+    "created_at": "2026-10-05T03:16:27.614784+00:00",
+    "like_count": 159,
+    "repost_count": 46,
+    "reply_count": 17,
+    "hashtags": [
+      "pyspark",
+      "nlp",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3012",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 44% and cost efficiency is through the roof. Fantastic work by the open source community! #coding #python",
+    "author_handle": "delta_engineer_95.bsky.social",
+    "created_at": "2026-11-16T09:16:27.614784+00:00",
+    "like_count": 133,
+    "repost_count": 35,
+    "reply_count": 19,
+    "hashtags": [
+      "coding",
+      "python",
+      "delta_lake"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3013",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #outage #bigdata",
+    "author_handle": "pipeline_master_70.bsky.social",
+    "created_at": "2026-10-16T10:16:27.614784+00:00",
+    "like_count": 191,
+    "repost_count": 55,
+    "reply_count": 38,
+    "hashtags": [
+      "outage",
+      "bigdata",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3014",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #datascience #python",
+    "author_handle": "sarah_data_ai_24.bsky.social",
+    "created_at": "2026-11-05T05:16:27.614784+00:00",
+    "like_count": 296,
+    "repost_count": 85,
+    "reply_count": 26,
+    "hashtags": [
+      "datascience",
+      "python",
+      "delta_lake"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3015",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #nlp #datascience",
+    "author_handle": "devops_sam_51.bsky.social",
+    "created_at": "2026-10-27T21:16:27.614784+00:00",
+    "like_count": 137,
+    "repost_count": 25,
+    "reply_count": 31,
+    "hashtags": [
+      "nlp",
+      "datascience",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3016",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #opensource #devops",
+    "author_handle": "sarah_data_ai_59.bsky.social",
+    "created_at": "2026-10-14T16:16:27.614784+00:00",
+    "like_count": 182,
+    "repost_count": 62,
+    "reply_count": 32,
+    "hashtags": [
+      "opensource",
+      "devops",
+      "python"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3017",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #coding #outage",
+    "author_handle": "agile_engineer_72.bsky.social",
+    "created_at": "2026-11-15T02:16:27.614784+00:00",
+    "like_count": 29,
+    "repost_count": 11,
+    "reply_count": 3,
+    "hashtags": [
+      "coding",
+      "outage",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3018",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #opensource #dataengineering",
+    "author_handle": "devops_sam_97.bsky.social",
+    "created_at": "2026-11-11T18:16:27.614784+00:00",
+    "like_count": 143,
+    "repost_count": 63,
+    "reply_count": 14,
+    "hashtags": [
+      "opensource",
+      "dataengineering",
+      "devops"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3019",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #pyspark #ai #bigdata",
+    "author_handle": "infra_lead_marcus_59.bsky.social",
+    "created_at": "2026-10-12T00:16:27.614784+00:00",
+    "like_count": 51,
+    "repost_count": 18,
+    "reply_count": 9,
+    "hashtags": [
+      "pyspark",
+      "ai",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3020",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #latency #llm",
+    "author_handle": "cloud_survivor_84.bsky.social",
+    "created_at": "2026-10-10T18:16:27.614784+00:00",
+    "like_count": 98,
+    "repost_count": 36,
+    "reply_count": 24,
+    "hashtags": [
+      "latency",
+      "llm",
+      "nlp"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3021",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #bigdata #nlp",
+    "author_handle": "database_ninja_55.bsky.social",
+    "created_at": "2026-11-18T17:16:27.614784+00:00",
+    "like_count": 41,
+    "repost_count": 19,
+    "reply_count": 4,
+    "hashtags": [
+      "bigdata",
+      "nlp",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3022",
+    "post_text": "Just received our monthly billing invoice. Subscription charges surged without prior warning, while query compute limits were silently reduced. Unacceptable business practice and awful communication. #coding #crash",
+    "author_handle": "code_artisan_65.bsky.social",
+    "created_at": "2026-11-12T03:16:27.614784+00:00",
+    "like_count": 57,
+    "repost_count": 14,
+    "reply_count": 9,
+    "hashtags": [
+      "coding",
+      "crash",
+      "outage"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3023",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #bigdata #ai",
+    "author_handle": "ml_researcher_kai_27.bsky.social",
+    "created_at": "2026-10-16T06:16:27.614784+00:00",
+    "like_count": 63,
+    "repost_count": 26,
+    "reply_count": 7,
+    "hashtags": [
+      "bigdata",
+      "ai",
+      "opensource"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3024",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #billing #cloud",
+    "author_handle": "cloud_pioneer_68.bsky.social",
+    "created_at": "2026-11-19T10:16:27.614784+00:00",
+    "like_count": 197,
+    "repost_count": 35,
+    "reply_count": 38,
+    "hashtags": [
+      "billing",
+      "cloud",
+      "latency"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3025",
+    "post_text": "Spent two full days debugging authentication errors only to find the official docs reference deprecated endpoints. Support was dismissive and slow to respond. Needs urgent fixes. #delta_lake #devops",
+    "author_handle": "benchmark_pro_33.bsky.social",
+    "created_at": "2026-10-05T17:16:27.614784+00:00",
+    "like_count": 78,
+    "repost_count": 31,
+    "reply_count": 12,
+    "hashtags": [
+      "delta_lake",
+      "devops",
+      "aws"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3026",
+    "post_text": "Bronze raw lake, Silver cleaned truth, and Gold Power BI dimensional models are all running on automatic schedules. Stakeholders love the live dashboards! #billing #machinelearning",
+    "author_handle": "data_architect_emily_14.bsky.social",
+    "created_at": "2026-10-22T17:16:27.614784+00:00",
+    "like_count": 21,
+    "repost_count": 9,
+    "reply_count": 4,
+    "hashtags": [
+      "billing",
+      "machinelearning",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3027",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #outage #cloud",
+    "author_handle": "tech_critic_dan_69.bsky.social",
+    "created_at": "2026-10-13T21:16:27.614784+00:00",
+    "like_count": 269,
+    "repost_count": 100,
+    "reply_count": 46,
+    "hashtags": [
+      "outage",
+      "cloud",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3028",
+    "post_text": "Looking for industry best practices on handling late-arriving CDC records across distributed Kafka partitions. What deduplication strategy works best for your team? #pyspark #machinelearning",
+    "author_handle": "systems_analyst_16.bsky.social",
+    "created_at": "2026-10-17T10:16:27.614784+00:00",
+    "like_count": 302,
+    "repost_count": 95,
+    "reply_count": 54,
+    "hashtags": [
+      "pyspark",
+      "machinelearning",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3029",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #devops #aws",
+    "author_handle": "infra_lead_marcus_47.bsky.social",
+    "created_at": "2026-10-28T19:16:27.614784+00:00",
+    "like_count": 19,
+    "repost_count": 5,
+    "reply_count": 5,
+    "hashtags": [
+      "devops",
+      "aws",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3030",
+    "post_text": "Looking for industry best practices on handling late-arriving CDC records across distributed Kafka partitions. What deduplication strategy works best for your team? #billing #nlp",
+    "author_handle": "agile_engineer_16.bsky.social",
+    "created_at": "2026-11-09T11:16:27.614784+00:00",
+    "like_count": 66,
+    "repost_count": 23,
+    "reply_count": 12,
+    "hashtags": [
+      "billing",
+      "nlp",
+      "outage"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3031",
+    "post_text": "Spent two full days debugging authentication errors only to find the official docs reference deprecated endpoints. Support was dismissive and slow to respond. Needs urgent fixes. #databricks #nlp",
+    "author_handle": "tech_critic_dan_42.bsky.social",
+    "created_at": "2026-10-08T03:16:27.614784+00:00",
+    "like_count": 49,
+    "repost_count": 15,
+    "reply_count": 12,
+    "hashtags": [
+      "databricks",
+      "nlp",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3032",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #databricks #billing",
+    "author_handle": "query_optimizer_32.bsky.social",
+    "created_at": "2026-11-10T17:16:27.614784+00:00",
+    "like_count": 300,
+    "repost_count": 112,
+    "reply_count": 58,
+    "hashtags": [
+      "databricks",
+      "billing",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3033",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #aws #apache_spark",
+    "author_handle": "sarah_data_ai_62.bsky.social",
+    "created_at": "2026-11-02T14:16:27.614784+00:00",
+    "like_count": 1720,
+    "repost_count": 566,
+    "reply_count": 378,
+    "hashtags": [
+      "aws",
+      "apache_spark",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3034",
+    "post_text": "Evaluating metadata scalability, partition evolution, and multi-engine query support across Snowflake, Databricks, and AWS Athena. Detailed whitepaper available. #complaint #delta_lake",
+    "author_handle": "devops_sam_16.bsky.social",
+    "created_at": "2026-10-26T05:16:27.614784+00:00",
+    "like_count": 251,
+    "repost_count": 87,
+    "reply_count": 53,
+    "hashtags": [
+      "complaint",
+      "delta_lake",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3035",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #cloud #billing",
+    "author_handle": "tech_critic_dan_28.bsky.social",
+    "created_at": "2026-11-08T22:16:27.614784+00:00",
+    "like_count": 71,
+    "repost_count": 26,
+    "reply_count": 11,
+    "hashtags": [
+      "cloud",
+      "billing",
+      "opensource"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3036",
+    "post_text": "Bronze raw lake, Silver cleaned truth, and Gold Power BI dimensional models are all running on automatic schedules. Stakeholders love the live dashboards! #python #latency",
+    "author_handle": "cloud_pioneer_88.bsky.social",
+    "created_at": "2026-10-16T23:16:27.614784+00:00",
+    "like_count": 186,
+    "repost_count": 80,
+    "reply_count": 36,
+    "hashtags": [
+      "python",
+      "latency",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3037",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #dataengineering #deeplearning",
+    "author_handle": "agile_engineer_34.bsky.social",
+    "created_at": "2026-10-09T04:16:27.614784+00:00",
+    "like_count": 161,
+    "repost_count": 62,
+    "reply_count": 34,
+    "hashtags": [
+      "dataengineering",
+      "deeplearning",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3038",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #llm #opensource",
+    "author_handle": "devops_sam_97.bsky.social",
+    "created_at": "2026-10-17T02:16:27.614784+00:00",
+    "like_count": 32,
+    "repost_count": 5,
+    "reply_count": 4,
+    "hashtags": [
+      "llm",
+      "opensource",
+      "databricks"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3039",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #deeplearning #ai",
+    "author_handle": "delta_engineer_86.bsky.social",
+    "created_at": "2026-10-22T01:16:27.614784+00:00",
+    "like_count": 336,
+    "repost_count": 60,
+    "reply_count": 81,
+    "hashtags": [
+      "deeplearning",
+      "ai",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3040",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #pyspark #bug",
+    "author_handle": "devops_sam_99.bsky.social",
+    "created_at": "2026-10-10T09:16:27.614784+00:00",
+    "like_count": 54,
+    "repost_count": 18,
+    "reply_count": 14,
+    "hashtags": [
+      "pyspark",
+      "bug",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3041",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 35% and cost efficiency is through the roof. Fantastic work by the open source community! #complaint #devops",
+    "author_handle": "tech_critic_dan_17.bsky.social",
+    "created_at": "2026-11-08T04:16:27.614784+00:00",
+    "like_count": 203,
+    "repost_count": 47,
+    "reply_count": 44,
+    "hashtags": [
+      "complaint",
+      "devops",
+      "deeplearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3042",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #deeplearning #delta_lake #devops",
+    "author_handle": "code_artisan_32.bsky.social",
+    "created_at": "2026-10-26T00:16:27.614784+00:00",
+    "like_count": 49,
+    "repost_count": 22,
+    "reply_count": 6,
+    "hashtags": [
+      "deeplearning",
+      "delta_lake",
+      "devops"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3043",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #ai #bug",
+    "author_handle": "cloud_survivor_19.bsky.social",
+    "created_at": "2026-10-08T21:16:27.614784+00:00",
+    "like_count": 75,
+    "repost_count": 28,
+    "reply_count": 8,
+    "hashtags": [
+      "ai",
+      "bug",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3044",
+    "post_text": "Bronze raw lake, Silver cleaned truth, and Gold Power BI dimensional models are all running on automatic schedules. Stakeholders love the live dashboards! #databricks #cloud",
+    "author_handle": "data_whisperer_60.bsky.social",
+    "created_at": "2026-10-13T13:16:27.614784+00:00",
+    "like_count": 240,
+    "repost_count": 84,
+    "reply_count": 31,
+    "hashtags": [
+      "databricks",
+      "cloud",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3045",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #cloud #coding",
+    "author_handle": "sarah_data_ai_25.bsky.social",
+    "created_at": "2026-10-14T12:16:27.614784+00:00",
+    "like_count": 178,
+    "repost_count": 39,
+    "reply_count": 26,
+    "hashtags": [
+      "cloud",
+      "coding",
+      "python"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3046",
+    "post_text": "Our production API endpoints were unreachable for over 3 hours due to broken database locks. Customer support has not replied to our priority tickets. Frustrating downtime and broken SLA! #llm #latency",
+    "author_handle": "cloud_survivor_56.bsky.social",
+    "created_at": "2026-10-13T19:16:27.614784+00:00",
+    "like_count": 16,
+    "repost_count": 6,
+    "reply_count": 4,
+    "hashtags": [
+      "llm",
+      "latency",
+      "nlp"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3047",
+    "post_text": "Bronze raw lake, Silver cleaned truth, and Gold Power BI dimensional models are all running on automatic schedules. Stakeholders love the live dashboards! #nlp #complaint",
+    "author_handle": "delta_engineer_48.bsky.social",
+    "created_at": "2026-10-16T02:16:27.614784+00:00",
+    "like_count": 73,
+    "repost_count": 12,
+    "reply_count": 11,
+    "hashtags": [
+      "nlp",
+      "complaint",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3048",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #crash #datascience",
+    "author_handle": "data_architect_emily_34.bsky.social",
+    "created_at": "2026-10-06T00:16:27.614784+00:00",
+    "like_count": 195,
+    "repost_count": 55,
+    "reply_count": 22,
+    "hashtags": [
+      "crash",
+      "datascience",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3049",
+    "post_text": "Just received our monthly billing invoice. Subscription charges surged without prior warning, while query compute limits were silently reduced. Unacceptable business practice and awful communication. #cloud #python",
+    "author_handle": "pipeline_master_12.bsky.social",
+    "created_at": "2026-11-17T13:16:27.614784+00:00",
+    "like_count": 107,
+    "repost_count": 34,
+    "reply_count": 24,
+    "hashtags": [
+      "cloud",
+      "python",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3050",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #python #dataengineering #ai",
+    "author_handle": "cloud_survivor_14.bsky.social",
+    "created_at": "2026-11-17T02:16:27.614784+00:00",
+    "like_count": 89,
+    "repost_count": 18,
+    "reply_count": 16,
+    "hashtags": [
+      "python",
+      "dataengineering",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3051",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #bug #apache_spark",
+    "author_handle": "infra_lead_marcus_22.bsky.social",
+    "created_at": "2026-11-09T21:16:27.614784+00:00",
+    "like_count": 550,
+    "repost_count": 111,
+    "reply_count": 49,
+    "hashtags": [
+      "bug",
+      "apache_spark",
+      "machinelearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3052",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 27% and cost efficiency is through the roof. Fantastic work by the open source community! #dataengineering #cloud",
+    "author_handle": "code_artisan_51.bsky.social",
+    "created_at": "2026-10-20T17:16:27.614784+00:00",
+    "like_count": 54,
+    "repost_count": 22,
+    "reply_count": 9,
+    "hashtags": [
+      "dataengineering",
+      "cloud",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3053",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #llm #ai",
+    "author_handle": "cloud_pioneer_31.bsky.social",
+    "created_at": "2026-11-11T15:16:27.614784+00:00",
+    "like_count": 75,
+    "repost_count": 13,
+    "reply_count": 10,
+    "hashtags": [
+      "llm",
+      "ai",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3054",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #machinelearning #outage",
+    "author_handle": "code_artisan_30.bsky.social",
+    "created_at": "2026-10-06T01:16:27.614784+00:00",
+    "like_count": 16,
+    "repost_count": 7,
+    "reply_count": 3,
+    "hashtags": [
+      "machinelearning",
+      "outage",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3055",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #delta_lake #pyspark #crash",
+    "author_handle": "sarah_data_ai_98.bsky.social",
+    "created_at": "2026-11-17T21:16:27.614784+00:00",
+    "like_count": 395,
+    "repost_count": 142,
+    "reply_count": 85,
+    "hashtags": [
+      "delta_lake",
+      "pyspark",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3056",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #aws #devops",
+    "author_handle": "pythonista_alex_73.bsky.social",
+    "created_at": "2026-11-11T06:16:27.614784+00:00",
+    "like_count": 476,
+    "repost_count": 159,
+    "reply_count": 42,
+    "hashtags": [
+      "aws",
+      "devops",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3057",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #datascience #coding",
+    "author_handle": "devops_sam_89.bsky.social",
+    "created_at": "2026-10-11T10:16:27.614784+00:00",
+    "like_count": 27,
+    "repost_count": 6,
+    "reply_count": 5,
+    "hashtags": [
+      "datascience",
+      "coding",
+      "databricks"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3058",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #complaint #latency",
+    "author_handle": "sarah_data_ai_73.bsky.social",
+    "created_at": "2026-10-26T19:16:27.614784+00:00",
+    "like_count": 20,
+    "repost_count": 5,
+    "reply_count": 5,
+    "hashtags": [
+      "complaint",
+      "latency",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3059",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #apache_spark #complaint",
+    "author_handle": "pipeline_master_15.bsky.social",
+    "created_at": "2026-11-08T07:16:27.614784+00:00",
+    "like_count": 94,
+    "repost_count": 27,
+    "reply_count": 13,
+    "hashtags": [
+      "apache_spark",
+      "complaint",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3060",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #delta_lake #databricks",
+    "author_handle": "agile_engineer_84.bsky.social",
+    "created_at": "2026-11-12T13:16:27.614784+00:00",
+    "like_count": 226,
+    "repost_count": 95,
+    "reply_count": 46,
+    "hashtags": [
+      "delta_lake",
+      "databricks",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3061",
+    "post_text": "Vectorized transformations with Pandas 2.0 and Python 3.12 give us 2.5x throughput improvements without changing a single line of business logic. Loving this release! #machinelearning #dataengineering",
+    "author_handle": "delta_engineer_58.bsky.social",
+    "created_at": "2026-10-29T23:16:27.614784+00:00",
+    "like_count": 247,
+    "repost_count": 55,
+    "reply_count": 38,
+    "hashtags": [
+      "machinelearning",
+      "dataengineering",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3062",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #apache_spark #coding",
+    "author_handle": "ml_researcher_kai_68.bsky.social",
+    "created_at": "2026-11-05T10:16:27.614784+00:00",
+    "like_count": 39,
+    "repost_count": 12,
+    "reply_count": 6,
+    "hashtags": [
+      "apache_spark",
+      "coding",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3063",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #ai #llm",
+    "author_handle": "pipeline_master_68.bsky.social",
+    "created_at": "2026-11-06T16:16:27.614784+00:00",
+    "like_count": 234,
+    "repost_count": 40,
+    "reply_count": 25,
+    "hashtags": [
+      "ai",
+      "llm",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3064",
+    "post_text": "Just received our monthly billing invoice. Subscription charges surged without prior warning, while query compute limits were silently reduced. Unacceptable business practice and awful communication. #nlp #bug",
+    "author_handle": "cloud_survivor_62.bsky.social",
+    "created_at": "2026-10-24T07:16:27.614784+00:00",
+    "like_count": 388,
+    "repost_count": 172,
+    "reply_count": 88,
+    "hashtags": [
+      "nlp",
+      "bug",
+      "delta_lake"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3065",
+    "post_text": "Just received our monthly billing invoice. Subscription charges surged without prior warning, while query compute limits were silently reduced. Unacceptable business practice and awful communication. #outage #cloud",
+    "author_handle": "benchmark_pro_41.bsky.social",
+    "created_at": "2026-10-16T21:16:27.614784+00:00",
+    "like_count": 154,
+    "repost_count": 57,
+    "reply_count": 32,
+    "hashtags": [
+      "outage",
+      "cloud",
+      "devops"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3066",
+    "post_text": "Looking for industry best practices on handling late-arriving CDC records across distributed Kafka partitions. What deduplication strategy works best for your team? #bigdata #outage",
+    "author_handle": "vector_builder_14.bsky.social",
+    "created_at": "2026-10-29T23:16:27.614784+00:00",
+    "like_count": 42,
+    "repost_count": 7,
+    "reply_count": 7,
+    "hashtags": [
+      "bigdata",
+      "outage",
+      "databricks"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3067",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 42% and cost efficiency is through the roof. Fantastic work by the open source community! #devops #cloud",
+    "author_handle": "cloud_pioneer_37.bsky.social",
+    "created_at": "2026-10-22T20:16:27.614784+00:00",
+    "like_count": 94,
+    "repost_count": 36,
+    "reply_count": 19,
+    "hashtags": [
+      "devops",
+      "cloud",
+      "machinelearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3068",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 30% and cost efficiency is through the roof. Fantastic work by the open source community! #databricks #cloud",
+    "author_handle": "agile_engineer_13.bsky.social",
+    "created_at": "2026-11-11T01:16:27.614784+00:00",
+    "like_count": 250,
+    "repost_count": 91,
+    "reply_count": 57,
+    "hashtags": [
+      "databricks",
+      "cloud",
+      "latency"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3069",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #python #delta_lake",
+    "author_handle": "code_artisan_98.bsky.social",
+    "created_at": "2026-10-20T22:16:27.614784+00:00",
+    "like_count": 896,
+    "repost_count": 135,
+    "reply_count": 168,
+    "hashtags": [
+      "python",
+      "delta_lake",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3070",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #deeplearning #crash",
+    "author_handle": "data_architect_emily_75.bsky.social",
+    "created_at": "2026-10-28T20:16:27.614784+00:00",
+    "like_count": 138,
+    "repost_count": 47,
+    "reply_count": 19,
+    "hashtags": [
+      "deeplearning",
+      "crash",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3071",
+    "post_text": "Ever since the latest deployment, our production Spark jobs are failing with OutOfMemory errors and 504 gateway timeouts. The dashboard is completely unresponsive and data pipelines are stalled. Critical bug! #python #datascience",
+    "author_handle": "cloud_survivor_81.bsky.social",
+    "created_at": "2026-10-07T01:16:27.614784+00:00",
+    "like_count": 281,
+    "repost_count": 74,
+    "reply_count": 54,
+    "hashtags": [
+      "python",
+      "datascience",
+      "devops"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3072",
+    "post_text": "Vectorized transformations with Pandas 2.0 and Python 3.12 give us 2.5x throughput improvements without changing a single line of business logic. Loving this release! #machinelearning #opensource",
+    "author_handle": "benchmark_pro_51.bsky.social",
+    "created_at": "2026-10-05T06:16:27.614784+00:00",
+    "like_count": 138,
+    "repost_count": 57,
+    "reply_count": 28,
+    "hashtags": [
+      "machinelearning",
+      "opensource",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3073",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #deeplearning #apache_spark",
+    "author_handle": "devops_sam_70.bsky.social",
+    "created_at": "2026-10-28T04:16:27.614784+00:00",
+    "like_count": 82,
+    "repost_count": 24,
+    "reply_count": 14,
+    "hashtags": [
+      "deeplearning",
+      "apache_spark",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3074",
+    "post_text": "Looking for industry best practices on handling late-arriving CDC records across distributed Kafka partitions. What deduplication strategy works best for your team? #nlp #devops",
+    "author_handle": "cloud_survivor_20.bsky.social",
+    "created_at": "2026-10-04T19:16:27.614784+00:00",
+    "like_count": 273,
+    "repost_count": 57,
+    "reply_count": 63,
+    "hashtags": [
+      "nlp",
+      "devops",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3075",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 29% and cost efficiency is through the roof. Fantastic work by the open source community! #dataengineering #delta_lake",
+    "author_handle": "vector_builder_90.bsky.social",
+    "created_at": "2026-10-25T07:16:27.614784+00:00",
+    "like_count": 77,
+    "repost_count": 24,
+    "reply_count": 18,
+    "hashtags": [
+      "dataengineering",
+      "delta_lake",
+      "deeplearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3076",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #cloud #datascience",
+    "author_handle": "spark_guru_39.bsky.social",
+    "created_at": "2026-11-18T03:16:27.614784+00:00",
+    "like_count": 370,
+    "repost_count": 58,
+    "reply_count": 42,
+    "hashtags": [
+      "cloud",
+      "datascience",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3077",
+    "post_text": "Vectorized transformations with Pandas 2.0 and Python 3.12 give us 2.5x throughput improvements without changing a single line of business logic. Loving this release! #complaint #llm",
+    "author_handle": "infra_lead_marcus_31.bsky.social",
+    "created_at": "2026-10-16T16:16:27.614784+00:00",
+    "like_count": 91,
+    "repost_count": 22,
+    "reply_count": 10,
+    "hashtags": [
+      "complaint",
+      "llm",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3078",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #apache_spark #bigdata",
+    "author_handle": "pythonista_alex_78.bsky.social",
+    "created_at": "2026-11-03T05:16:27.614784+00:00",
+    "like_count": 307,
+    "repost_count": 135,
+    "reply_count": 57,
+    "hashtags": [
+      "apache_spark",
+      "bigdata",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3079",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #crash #latency",
+    "author_handle": "agile_engineer_26.bsky.social",
+    "created_at": "2026-11-01T07:16:27.614784+00:00",
+    "like_count": 205,
+    "repost_count": 38,
+    "reply_count": 52,
+    "hashtags": [
+      "crash",
+      "latency",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3080",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #opensource #crash",
+    "author_handle": "pythonista_alex_78.bsky.social",
+    "created_at": "2026-10-22T04:16:27.614784+00:00",
+    "like_count": 87,
+    "repost_count": 17,
+    "reply_count": 14,
+    "hashtags": [
+      "opensource",
+      "crash",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3081",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #cloud #bigdata",
+    "author_handle": "vector_builder_52.bsky.social",
+    "created_at": "2026-10-31T09:16:27.614784+00:00",
+    "like_count": 28,
+    "repost_count": 5,
+    "reply_count": 6,
+    "hashtags": [
+      "cloud",
+      "bigdata",
+      "devops"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3082",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #outage #latency",
+    "author_handle": "data_architect_emily_27.bsky.social",
+    "created_at": "2026-10-08T14:16:27.614784+00:00",
+    "like_count": 204,
+    "repost_count": 73,
+    "reply_count": 42,
+    "hashtags": [
+      "outage",
+      "latency",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3083",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #python #bug #machinelearning",
+    "author_handle": "delta_engineer_84.bsky.social",
+    "created_at": "2026-10-06T19:16:27.614784+00:00",
+    "like_count": 176,
+    "repost_count": 32,
+    "reply_count": 16,
+    "hashtags": [
+      "python",
+      "bug",
+      "machinelearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3084",
+    "post_text": "Our production API endpoints were unreachable for over 3 hours due to broken database locks. Customer support has not replied to our priority tickets. Frustrating downtime and broken SLA! #ai #databricks",
+    "author_handle": "sarah_data_ai_50.bsky.social",
+    "created_at": "2026-10-17T05:16:27.614784+00:00",
+    "like_count": 45,
+    "repost_count": 20,
+    "reply_count": 7,
+    "hashtags": [
+      "ai",
+      "databricks",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3085",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #latency #datascience",
+    "author_handle": "infra_lead_marcus_54.bsky.social",
+    "created_at": "2026-10-11T17:16:27.614784+00:00",
+    "like_count": 181,
+    "repost_count": 48,
+    "reply_count": 26,
+    "hashtags": [
+      "latency",
+      "datascience",
+      "python"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3086",
+    "post_text": "Spent two full days debugging authentication errors only to find the official docs reference deprecated endpoints. Support was dismissive and slow to respond. Needs urgent fixes. #pyspark #ai",
+    "author_handle": "cloud_pioneer_63.bsky.social",
+    "created_at": "2026-10-28T03:16:27.614784+00:00",
+    "like_count": 135,
+    "repost_count": 53,
+    "reply_count": 18,
+    "hashtags": [
+      "pyspark",
+      "ai",
+      "billing"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3087",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #ai #nlp",
+    "author_handle": "code_artisan_21.bsky.social",
+    "created_at": "2026-11-10T18:16:27.614784+00:00",
+    "like_count": 41,
+    "repost_count": 18,
+    "reply_count": 8,
+    "hashtags": [
+      "ai",
+      "nlp",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3088",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #coding #delta_lake",
+    "author_handle": "pythonista_alex_58.bsky.social",
+    "created_at": "2026-11-18T23:16:27.614784+00:00",
+    "like_count": 57,
+    "repost_count": 22,
+    "reply_count": 6,
+    "hashtags": [
+      "coding",
+      "delta_lake",
+      "opensource"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3089",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #outage #nlp",
+    "author_handle": "tech_critic_dan_48.bsky.social",
+    "created_at": "2026-10-31T19:16:27.614784+00:00",
+    "like_count": 102,
+    "repost_count": 17,
+    "reply_count": 9,
+    "hashtags": [
+      "outage",
+      "nlp",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3090",
+    "post_text": "Evaluating metadata scalability, partition evolution, and multi-engine query support across Snowflake, Databricks, and AWS Athena. Detailed whitepaper available. #latency #nlp",
+    "author_handle": "spark_guru_25.bsky.social",
+    "created_at": "2026-10-09T16:16:27.614784+00:00",
+    "like_count": 94,
+    "repost_count": 40,
+    "reply_count": 18,
+    "hashtags": [
+      "latency",
+      "nlp",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3091",
+    "post_text": "Ever since the latest deployment, our production Spark jobs are failing with OutOfMemory errors and 504 gateway timeouts. The dashboard is completely unresponsive and data pipelines are stalled. Critical bug! #bug #billing",
+    "author_handle": "sarah_data_ai_98.bsky.social",
+    "created_at": "2026-11-01T21:16:27.614784+00:00",
+    "like_count": 97,
+    "repost_count": 28,
+    "reply_count": 13,
+    "hashtags": [
+      "bug",
+      "billing",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3092",
+    "post_text": "Looking for industry best practices on handling late-arriving CDC records across distributed Kafka partitions. What deduplication strategy works best for your team? #databricks #deeplearning",
+    "author_handle": "ml_researcher_kai_55.bsky.social",
+    "created_at": "2026-11-12T01:16:27.614784+00:00",
+    "like_count": 69,
+    "repost_count": 17,
+    "reply_count": 16,
+    "hashtags": [
+      "databricks",
+      "deeplearning",
+      "delta_lake"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3093",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #complaint #datascience",
+    "author_handle": "vector_builder_34.bsky.social",
+    "created_at": "2026-11-09T11:16:27.614784+00:00",
+    "like_count": 21,
+    "repost_count": 7,
+    "reply_count": 6,
+    "hashtags": [
+      "complaint",
+      "datascience",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3094",
+    "post_text": "Spent two full days debugging authentication errors only to find the official docs reference deprecated endpoints. Support was dismissive and slow to respond. Needs urgent fixes. #delta_lake #opensource",
+    "author_handle": "query_optimizer_22.bsky.social",
+    "created_at": "2026-10-10T07:16:27.614784+00:00",
+    "like_count": 49,
+    "repost_count": 12,
+    "reply_count": 10,
+    "hashtags": [
+      "delta_lake",
+      "opensource",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3095",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #databricks #bigdata",
+    "author_handle": "pythonista_alex_23.bsky.social",
+    "created_at": "2026-10-15T18:16:27.614784+00:00",
+    "like_count": 147,
+    "repost_count": 57,
+    "reply_count": 23,
+    "hashtags": [
+      "databricks",
+      "bigdata",
+      "aws"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3096",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #opensource #bug",
+    "author_handle": "ml_researcher_kai_12.bsky.social",
+    "created_at": "2026-11-06T08:16:27.614784+00:00",
+    "like_count": 466,
+    "repost_count": 135,
+    "reply_count": 44,
+    "hashtags": [
+      "opensource",
+      "bug",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3097",
+    "post_text": "Vectorized transformations with Pandas 2.0 and Python 3.12 give us 2.5x throughput improvements without changing a single line of business logic. Loving this release! #bigdata #devops",
+    "author_handle": "devops_sam_38.bsky.social",
+    "created_at": "2026-10-20T01:16:27.614784+00:00",
+    "like_count": 1103,
+    "repost_count": 401,
+    "reply_count": 94,
+    "hashtags": [
+      "bigdata",
+      "devops",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3098",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #nlp #bigdata",
+    "author_handle": "devops_sam_19.bsky.social",
+    "created_at": "2026-11-10T14:16:27.614784+00:00",
+    "like_count": 170,
+    "repost_count": 48,
+    "reply_count": 36,
+    "hashtags": [
+      "nlp",
+      "bigdata",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3099",
+    "post_text": "Ever since the latest deployment, our production Spark jobs are failing with OutOfMemory errors and 504 gateway timeouts. The dashboard is completely unresponsive and data pipelines are stalled. Critical bug! #ai #dataengineering",
+    "author_handle": "cloud_survivor_48.bsky.social",
+    "created_at": "2026-11-17T21:16:27.614784+00:00",
+    "like_count": 262,
+    "repost_count": 49,
+    "reply_count": 33,
+    "hashtags": [
+      "ai",
+      "dataengineering",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3100",
+    "post_text": "Ever since the latest deployment, our production Spark jobs are failing with OutOfMemory errors and 504 gateway timeouts. The dashboard is completely unresponsive and data pipelines are stalled. Critical bug! #bug #ai",
+    "author_handle": "ml_researcher_kai_45.bsky.social",
+    "created_at": "2026-10-08T12:16:27.614784+00:00",
+    "like_count": 174,
+    "repost_count": 62,
+    "reply_count": 15,
+    "hashtags": [
+      "bug",
+      "ai",
+      "outage"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3101",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #aws #outage",
+    "author_handle": "delta_engineer_46.bsky.social",
+    "created_at": "2026-10-13T01:16:27.614784+00:00",
+    "like_count": 141,
+    "repost_count": 54,
+    "reply_count": 24,
+    "hashtags": [
+      "aws",
+      "outage",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3102",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 36% and cost efficiency is through the roof. Fantastic work by the open source community! #ai #aws",
+    "author_handle": "devops_sam_33.bsky.social",
+    "created_at": "2026-11-08T19:16:27.614784+00:00",
+    "like_count": 594,
+    "repost_count": 214,
+    "reply_count": 67,
+    "hashtags": [
+      "ai",
+      "aws",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3103",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #coding #dataengineering",
+    "author_handle": "query_optimizer_46.bsky.social",
+    "created_at": "2026-10-28T00:16:27.614784+00:00",
+    "like_count": 346,
+    "repost_count": 64,
+    "reply_count": 36,
+    "hashtags": [
+      "coding",
+      "dataengineering",
+      "llm"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3104",
+    "post_text": "Vectorized transformations with Pandas 2.0 and Python 3.12 give us 2.5x throughput improvements without changing a single line of business logic. Loving this release! #cloud #dataengineering",
+    "author_handle": "pipeline_master_38.bsky.social",
+    "created_at": "2026-10-14T13:16:27.614784+00:00",
+    "like_count": 72,
+    "repost_count": 24,
+    "reply_count": 10,
+    "hashtags": [
+      "cloud",
+      "dataengineering",
+      "python"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3105",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #ai #pyspark",
+    "author_handle": "devops_sam_60.bsky.social",
+    "created_at": "2026-10-14T23:16:27.614784+00:00",
+    "like_count": 23,
+    "repost_count": 4,
+    "reply_count": 5,
+    "hashtags": [
+      "ai",
+      "pyspark",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3106",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #dataengineering #bigdata",
+    "author_handle": "pythonista_alex_18.bsky.social",
+    "created_at": "2026-10-21T20:16:27.614784+00:00",
+    "like_count": 81,
+    "repost_count": 36,
+    "reply_count": 17,
+    "hashtags": [
+      "dataengineering",
+      "bigdata",
+      "python"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3107",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #dataengineering #machinelearning",
+    "author_handle": "agile_engineer_44.bsky.social",
+    "created_at": "2026-10-27T06:16:27.614784+00:00",
+    "like_count": 71,
+    "repost_count": 27,
+    "reply_count": 15,
+    "hashtags": [
+      "dataengineering",
+      "machinelearning",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3108",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #cloud #aws",
+    "author_handle": "sarah_data_ai_39.bsky.social",
+    "created_at": "2026-10-09T00:16:27.614784+00:00",
+    "like_count": 62,
+    "repost_count": 12,
+    "reply_count": 8,
+    "hashtags": [
+      "cloud",
+      "aws",
+      "deeplearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3109",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #pyspark #cloud #latency",
+    "author_handle": "ml_researcher_kai_48.bsky.social",
+    "created_at": "2026-10-10T08:16:27.614784+00:00",
+    "like_count": 384,
+    "repost_count": 102,
+    "reply_count": 76,
+    "hashtags": [
+      "pyspark",
+      "cloud",
+      "latency"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3110",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 31% and cost efficiency is through the roof. Fantastic work by the open source community! #latency #aws",
+    "author_handle": "vector_builder_43.bsky.social",
+    "created_at": "2026-10-10T17:16:27.614784+00:00",
+    "like_count": 301,
+    "repost_count": 72,
+    "reply_count": 50,
+    "hashtags": [
+      "latency",
+      "aws",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3111",
+    "post_text": "Spent two full days debugging authentication errors only to find the official docs reference deprecated endpoints. Support was dismissive and slow to respond. Needs urgent fixes. #opensource #databricks",
+    "author_handle": "code_artisan_66.bsky.social",
+    "created_at": "2026-10-16T02:16:27.614784+00:00",
+    "like_count": 275,
+    "repost_count": 73,
+    "reply_count": 37,
+    "hashtags": [
+      "opensource",
+      "databricks",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3112",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #crash #delta_lake",
+    "author_handle": "devops_sam_82.bsky.social",
+    "created_at": "2026-10-21T11:16:27.614784+00:00",
+    "like_count": 224,
+    "repost_count": 55,
+    "reply_count": 33,
+    "hashtags": [
+      "crash",
+      "delta_lake",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3113",
+    "post_text": "Evaluating metadata scalability, partition evolution, and multi-engine query support across Snowflake, Databricks, and AWS Athena. Detailed whitepaper available. #opensource #outage",
+    "author_handle": "code_artisan_43.bsky.social",
+    "created_at": "2026-10-06T21:16:27.614784+00:00",
+    "like_count": 90,
+    "repost_count": 37,
+    "reply_count": 15,
+    "hashtags": [
+      "opensource",
+      "outage",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3114",
+    "post_text": "Spent two full days debugging authentication errors only to find the official docs reference deprecated endpoints. Support was dismissive and slow to respond. Needs urgent fixes. #latency #datascience",
+    "author_handle": "query_optimizer_54.bsky.social",
+    "created_at": "2026-10-18T18:16:27.614784+00:00",
+    "like_count": 207,
+    "repost_count": 33,
+    "reply_count": 19,
+    "hashtags": [
+      "latency",
+      "datascience",
+      "nlp"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3115",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #llm #python",
+    "author_handle": "data_architect_emily_94.bsky.social",
+    "created_at": "2026-10-13T12:16:27.614784+00:00",
+    "like_count": 365,
+    "repost_count": 164,
+    "reply_count": 55,
+    "hashtags": [
+      "llm",
+      "python",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3116",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #outage #pyspark",
+    "author_handle": "database_ninja_51.bsky.social",
+    "created_at": "2026-11-04T05:16:27.614784+00:00",
+    "like_count": 179,
+    "repost_count": 33,
+    "reply_count": 20,
+    "hashtags": [
+      "outage",
+      "pyspark",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3117",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #outage #aws",
+    "author_handle": "data_whisperer_58.bsky.social",
+    "created_at": "2026-11-16T22:16:27.614784+00:00",
+    "like_count": 192,
+    "repost_count": 69,
+    "reply_count": 35,
+    "hashtags": [
+      "outage",
+      "aws",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3118",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 35% and cost efficiency is through the roof. Fantastic work by the open source community! #cloud #dataengineering",
+    "author_handle": "data_whisperer_31.bsky.social",
+    "created_at": "2026-10-14T00:16:27.614784+00:00",
+    "like_count": 558,
+    "repost_count": 167,
+    "reply_count": 122,
+    "hashtags": [
+      "cloud",
+      "dataengineering",
+      "crash"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3119",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #ai #cloud",
+    "author_handle": "infra_lead_marcus_83.bsky.social",
+    "created_at": "2026-10-11T03:16:27.614784+00:00",
+    "like_count": 52,
+    "repost_count": 12,
+    "reply_count": 7,
+    "hashtags": [
+      "ai",
+      "cloud",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3120",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #crash #outage",
+    "author_handle": "sarah_data_ai_64.bsky.social",
+    "created_at": "2026-10-25T05:16:27.614784+00:00",
+    "like_count": 132,
+    "repost_count": 23,
+    "reply_count": 29,
+    "hashtags": [
+      "crash",
+      "outage",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3121",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #nlp #aws",
+    "author_handle": "vector_builder_68.bsky.social",
+    "created_at": "2026-11-06T01:16:27.614784+00:00",
+    "like_count": 78,
+    "repost_count": 22,
+    "reply_count": 10,
+    "hashtags": [
+      "nlp",
+      "aws",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3122",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #complaint #crash #aws",
+    "author_handle": "pipeline_master_44.bsky.social",
+    "created_at": "2026-10-07T19:16:27.614784+00:00",
+    "like_count": 188,
+    "repost_count": 57,
+    "reply_count": 37,
+    "hashtags": [
+      "complaint",
+      "crash",
+      "aws"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3123",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #outage #billing",
+    "author_handle": "benchmark_pro_29.bsky.social",
+    "created_at": "2026-10-09T19:16:27.614784+00:00",
+    "like_count": 57,
+    "repost_count": 12,
+    "reply_count": 10,
+    "hashtags": [
+      "outage",
+      "billing",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3124",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #llm #pyspark",
+    "author_handle": "pythonista_alex_42.bsky.social",
+    "created_at": "2026-10-07T03:16:27.614784+00:00",
+    "like_count": 136,
+    "repost_count": 32,
+    "reply_count": 18,
+    "hashtags": [
+      "llm",
+      "pyspark",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3125",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #dataengineering #bigdata",
+    "author_handle": "sarah_data_ai_81.bsky.social",
+    "created_at": "2026-10-06T17:16:27.614784+00:00",
+    "like_count": 31,
+    "repost_count": 13,
+    "reply_count": 5,
+    "hashtags": [
+      "dataengineering",
+      "bigdata",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3126",
+    "post_text": "Conducted a comprehensive benchmark on 100GB parquet files across 16 CPU cores. Spark excels on distributed shuffles, while DuckDB wins on single-machine vectorization. Full architectural comparison attached. #ai #delta_lake",
+    "author_handle": "database_ninja_32.bsky.social",
+    "created_at": "2026-10-22T23:16:27.614784+00:00",
+    "like_count": 182,
+    "repost_count": 42,
+    "reply_count": 40,
+    "hashtags": [
+      "ai",
+      "delta_lake",
+      "deeplearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3127",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #databricks #apache_spark",
+    "author_handle": "cloud_pioneer_56.bsky.social",
+    "created_at": "2026-10-09T11:16:27.614784+00:00",
+    "like_count": 128,
+    "repost_count": 31,
+    "reply_count": 12,
+    "hashtags": [
+      "databricks",
+      "apache_spark",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3128",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #billing #bigdata",
+    "author_handle": "vector_builder_95.bsky.social",
+    "created_at": "2026-10-07T15:16:27.614784+00:00",
+    "like_count": 24,
+    "repost_count": 9,
+    "reply_count": 6,
+    "hashtags": [
+      "billing",
+      "bigdata",
+      "machinelearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3129",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 35% and cost efficiency is through the roof. Fantastic work by the open source community! #machinelearning #bug",
+    "author_handle": "benchmark_pro_64.bsky.social",
+    "created_at": "2026-10-12T20:16:27.614784+00:00",
+    "like_count": 35,
+    "repost_count": 14,
+    "reply_count": 8,
+    "hashtags": [
+      "machinelearning",
+      "bug",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3130",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #deeplearning #devops",
+    "author_handle": "devops_sam_50.bsky.social",
+    "created_at": "2026-11-06T08:16:27.614784+00:00",
+    "like_count": 58,
+    "repost_count": 10,
+    "reply_count": 10,
+    "hashtags": [
+      "deeplearning",
+      "devops",
+      "coding"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3131",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #deeplearning #bigdata",
+    "author_handle": "systems_analyst_14.bsky.social",
+    "created_at": "2026-10-15T23:16:27.614784+00:00",
+    "like_count": 46,
+    "repost_count": 19,
+    "reply_count": 4,
+    "hashtags": [
+      "deeplearning",
+      "bigdata",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3132",
+    "post_text": "Evaluating metadata scalability, partition evolution, and multi-engine query support across Snowflake, Databricks, and AWS Athena. Detailed whitepaper available. #machinelearning #deeplearning",
+    "author_handle": "devops_sam_78.bsky.social",
+    "created_at": "2026-10-08T11:16:27.614784+00:00",
+    "like_count": 37,
+    "repost_count": 13,
+    "reply_count": 8,
+    "hashtags": [
+      "machinelearning",
+      "deeplearning",
+      "opensource"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3133",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #deeplearning #nlp",
+    "author_handle": "pipeline_master_90.bsky.social",
+    "created_at": "2026-11-03T22:16:27.614784+00:00",
+    "like_count": 71,
+    "repost_count": 16,
+    "reply_count": 17,
+    "hashtags": [
+      "deeplearning",
+      "nlp",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3134",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #deeplearning #pyspark #cloud",
+    "author_handle": "cloud_pioneer_22.bsky.social",
+    "created_at": "2026-10-29T16:16:27.614784+00:00",
+    "like_count": 55,
+    "repost_count": 24,
+    "reply_count": 8,
+    "hashtags": [
+      "deeplearning",
+      "pyspark",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3135",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 39% and cost efficiency is through the roof. Fantastic work by the open source community! #datascience #coding",
+    "author_handle": "pythonista_alex_90.bsky.social",
+    "created_at": "2026-11-08T14:16:27.614784+00:00",
+    "like_count": 638,
+    "repost_count": 229,
+    "reply_count": 134,
+    "hashtags": [
+      "datascience",
+      "coding",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3136",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #ai #complaint",
+    "author_handle": "vector_builder_93.bsky.social",
+    "created_at": "2026-10-21T16:16:27.614784+00:00",
+    "like_count": 657,
+    "repost_count": 115,
+    "reply_count": 71,
+    "hashtags": [
+      "ai",
+      "complaint",
+      "nlp"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3137",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #devops #cloud",
+    "author_handle": "data_whisperer_46.bsky.social",
+    "created_at": "2026-11-10T17:16:27.614784+00:00",
+    "like_count": 534,
+    "repost_count": 108,
+    "reply_count": 97,
+    "hashtags": [
+      "devops",
+      "cloud",
+      "billing"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3138",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #python #outage",
+    "author_handle": "benchmark_pro_21.bsky.social",
+    "created_at": "2026-11-07T10:16:27.614784+00:00",
+    "like_count": 54,
+    "repost_count": 24,
+    "reply_count": 11,
+    "hashtags": [
+      "python",
+      "outage",
+      "machinelearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3139",
+    "post_text": "Streaming millions of events per hour with structured streaming into a Silver Delta table. Exactly-once semantics and ACID transactions make debugging seamless. Best data platform we have used. #apache_spark #python",
+    "author_handle": "query_optimizer_31.bsky.social",
+    "created_at": "2026-10-21T06:16:27.614784+00:00",
+    "like_count": 15,
+    "repost_count": 4,
+    "reply_count": 2,
+    "hashtags": [
+      "apache_spark",
+      "python",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3140",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #devops #latency",
+    "author_handle": "tech_critic_dan_46.bsky.social",
+    "created_at": "2026-10-14T09:16:27.614784+00:00",
+    "like_count": 521,
+    "repost_count": 190,
+    "reply_count": 59,
+    "hashtags": [
+      "devops",
+      "latency",
+      "cloud"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3141",
+    "post_text": "Submitted an urgent ticket regarding partition skew and the solutions engineering team resolved it in 15 minutes with brilliant optimization advice. Truly outstanding service! #bug #ai",
+    "author_handle": "spark_guru_47.bsky.social",
+    "created_at": "2026-10-19T00:16:27.614784+00:00",
+    "like_count": 126,
+    "repost_count": 26,
+    "reply_count": 28,
+    "hashtags": [
+      "bug",
+      "ai",
+      "nlp"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3142",
+    "post_text": "Analyzing trade-offs between file arrival triggers and scheduled batch micro-batches. Discussing schema evolution, rescue columns, and idempotency guarantees. #datascience #outage",
+    "author_handle": "data_whisperer_98.bsky.social",
+    "created_at": "2026-11-03T05:16:27.614784+00:00",
+    "like_count": 508,
+    "repost_count": 78,
+    "reply_count": 53,
+    "hashtags": [
+      "datascience",
+      "outage",
+      "latency"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3143",
+    "post_text": "Querying 50GB Parquet datasets in milliseconds right inside Jupyter Notebook. Incredibly lightweight, zero-dependency setup, and blazing fast memory execution. #crash #coding",
+    "author_handle": "data_whisperer_40.bsky.social",
+    "created_at": "2026-10-24T15:16:27.614784+00:00",
+    "like_count": 41,
+    "repost_count": 8,
+    "reply_count": 4,
+    "hashtags": [
+      "crash",
+      "coding",
+      "billing"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3144",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #bug #crash",
+    "author_handle": "infra_lead_marcus_60.bsky.social",
+    "created_at": "2026-10-20T01:16:27.614784+00:00",
+    "like_count": 179,
+    "repost_count": 41,
+    "reply_count": 34,
+    "hashtags": [
+      "bug",
+      "crash",
+      "billing"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3145",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #outage #delta_lake #deeplearning",
+    "author_handle": "pipeline_master_26.bsky.social",
+    "created_at": "2026-10-08T01:16:27.614784+00:00",
+    "like_count": 90,
+    "repost_count": 27,
+    "reply_count": 13,
+    "hashtags": [
+      "outage",
+      "delta_lake",
+      "deeplearning"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3146",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #bigdata #deeplearning",
+    "author_handle": "tech_critic_dan_56.bsky.social",
+    "created_at": "2026-11-14T02:16:27.614784+00:00",
+    "like_count": 263,
+    "repost_count": 117,
+    "reply_count": 44,
+    "hashtags": [
+      "bigdata",
+      "deeplearning",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3147",
+    "post_text": "Our production API endpoints were unreachable for over 3 hours due to broken database locks. Customer support has not replied to our priority tickets. Frustrating downtime and broken SLA! #bug #deeplearning",
+    "author_handle": "sarah_data_ai_29.bsky.social",
+    "created_at": "2026-10-23T03:16:27.614784+00:00",
+    "like_count": 51,
+    "repost_count": 22,
+    "reply_count": 7,
+    "hashtags": [
+      "bug",
+      "deeplearning",
+      "aws"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3148",
+    "post_text": "Official release details covering enhanced JDBC drivers, Parquet v2 support, updated REST endpoints, and deprecation notices for legacy configurations. #apache_spark #ai",
+    "author_handle": "pythonista_alex_69.bsky.social",
+    "created_at": "2026-10-14T15:16:27.614784+00:00",
+    "like_count": 142,
+    "repost_count": 30,
+    "reply_count": 23,
+    "hashtags": [
+      "apache_spark",
+      "ai",
+      "bigdata"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3149",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #apache_spark #devops",
+    "author_handle": "ml_researcher_kai_25.bsky.social",
+    "created_at": "2026-10-23T09:16:27.614784+00:00",
+    "like_count": 26,
+    "repost_count": 8,
+    "reply_count": 6,
+    "hashtags": [
+      "apache_spark",
+      "devops",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3150",
+    "post_text": "Latency is under 120ms and answer accuracy has improved drastically. Great developer documentation and effortless API integration! Kudos to the engineering team. #delta_lake #billing",
+    "author_handle": "agile_engineer_10.bsky.social",
+    "created_at": "2026-10-28T10:16:27.614784+00:00",
+    "like_count": 300,
+    "repost_count": 126,
+    "reply_count": 54,
+    "hashtags": [
+      "delta_lake",
+      "billing",
+      "aws"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3151",
+    "post_text": "AQE dynamically coalesces shuffle partitions and eliminates skew joins automatically. Our memory footprint dropped by 35% and cost efficiency is through the roof. Fantastic work by the open source community! #machinelearning #cloud",
+    "author_handle": "devops_sam_60.bsky.social",
+    "created_at": "2026-10-16T18:16:27.614784+00:00",
+    "like_count": 78,
+    "repost_count": 13,
+    "reply_count": 16,
+    "hashtags": [
+      "machinelearning",
+      "cloud",
+      "latency"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3152",
+    "post_text": "Ever since the latest deployment, our production Spark jobs are failing with OutOfMemory errors and 504 gateway timeouts. The dashboard is completely unresponsive and data pipelines are stalled. Critical bug! #llm #bigdata",
+    "author_handle": "pipeline_master_90.bsky.social",
+    "created_at": "2026-10-26T18:16:27.614784+00:00",
+    "like_count": 51,
+    "repost_count": 21,
+    "reply_count": 10,
+    "hashtags": [
+      "llm",
+      "bigdata",
+      "databricks"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3153",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #apache_spark #complaint",
+    "author_handle": "agile_engineer_26.bsky.social",
+    "created_at": "2026-11-01T17:16:27.614784+00:00",
+    "like_count": 47,
+    "repost_count": 21,
+    "reply_count": 12,
+    "hashtags": [
+      "apache_spark",
+      "complaint",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3154",
+    "post_text": "Our production API endpoints were unreachable for over 3 hours due to broken database locks. Customer support has not replied to our priority tickets. Frustrating downtime and broken SLA! #llm #apache_spark",
+    "author_handle": "code_artisan_42.bsky.social",
+    "created_at": "2026-11-06T11:16:27.614784+00:00",
+    "like_count": 252,
+    "repost_count": 110,
+    "reply_count": 37,
+    "hashtags": [
+      "llm",
+      "apache_spark",
+      "billing"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3155",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #pyspark #databricks",
+    "author_handle": "ml_researcher_kai_25.bsky.social",
+    "created_at": "2026-11-08T05:16:27.614784+00:00",
+    "like_count": 125,
+    "repost_count": 48,
+    "reply_count": 17,
+    "hashtags": [
+      "pyspark",
+      "databricks",
+      "ai"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3156",
+    "post_text": "Our streaming driver node runs out of memory every 6 hours due to uncollected metadata garbage. Constant pipeline crashes and delayed reporting for stakeholders. #nlp #latency",
+    "author_handle": "vector_builder_35.bsky.social",
+    "created_at": "2026-10-30T21:16:27.614784+00:00",
+    "like_count": 48,
+    "repost_count": 17,
+    "reply_count": 11,
+    "hashtags": [
+      "nlp",
+      "latency",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3157",
+    "post_text": "Updating our Delta table schema corrupted downstream view queries. Null values were injected into primary key columns and rollback commands failed. Extremely disappointing release quality. #deeplearning #outage",
+    "author_handle": "systems_analyst_33.bsky.social",
+    "created_at": "2026-10-18T22:16:27.614784+00:00",
+    "like_count": 64,
+    "repost_count": 25,
+    "reply_count": 14,
+    "hashtags": [
+      "deeplearning",
+      "outage",
+      "bug"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3158",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #aws #llm #devops",
+    "author_handle": "sarah_data_ai_77.bsky.social",
+    "created_at": "2026-10-22T16:16:27.614784+00:00",
+    "like_count": 115,
+    "repost_count": 41,
+    "reply_count": 13,
+    "hashtags": [
+      "aws",
+      "llm",
+      "devops"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3159",
+    "post_text": "A deep dive into Delta transaction JSON logs, snapshot isolation, and how vacuum commands affect metadata retention for audit compliance. #devops #coding",
+    "author_handle": "infra_lead_marcus_41.bsky.social",
+    "created_at": "2026-10-09T16:16:27.614784+00:00",
+    "like_count": 243,
+    "repost_count": 48,
+    "reply_count": 25,
+    "hashtags": [
+      "devops",
+      "coding",
+      "pyspark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_3160",
+    "post_text": "We migrated our largest ETL tables to Delta Lake 3.0 with liquid clustering. Query execution went from minutes to seconds, and storage compaction is effortless! Highly recommend this for enterprise pipelines. #opensource #pyspark #apache_spark",
+    "author_handle": "agile_engineer_42.bsky.social",
+    "created_at": "2026-10-16T23:16:27.614784+00:00",
+    "like_count": 219,
+    "repost_count": 61,
+    "reply_count": 22,
+    "hashtags": [
+      "opensource",
+      "pyspark",
+      "apache_spark"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-19T12:17:46.435137+00:00",
+    "data_mode": "benchmark_sample"
+  }
+]

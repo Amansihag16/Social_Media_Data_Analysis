@@ -1,0 +1,59 @@
+{
+  "champion_model_name": "Ridge Regressor (L2)",
+  "model_name": "Ridge Regressor (L2)",
+  "tournament_leaderboard": [
+    {
+      "model_name": "Ridge Regressor (L2)",
+      "test_r2_log": 0.1373,
+      "cv_r2_log": 0.0458,
+      "mae": 1275.8
+    },
+    {
+      "model_name": "Voting Regressor Ensemble",
+      "test_r2_log": 0.1184,
+      "cv_r2_log": -0.0086,
+      "mae": 1279.4
+    },
+    {
+      "model_name": "Gradient Boosting Regressor",
+      "test_r2_log": 0.0943,
+      "cv_r2_log": -0.0787,
+      "mae": 1283.1
+    },
+    {
+      "model_name": "HistGradientBoosting Regressor",
+      "test_r2_log": 0.0924,
+      "cv_r2_log": -0.0579,
+      "mae": 1285.1
+    },
+    {
+      "model_name": "Random Forest Regressor",
+      "test_r2_log": 0.0866,
+      "cv_r2_log": -0.0595,
+      "mae": 1282.8
+    }
+  ],
+  "training_samples": 520,
+  "test_samples": 130,
+  "r2_score_log_space": 0.1373,
+  "mean_absolute_error": 1275.8,
+  "feature_importances": {
+    "char_length": 0.0604,
+    "word_count": 0.0452,
+    "title_len": 0.3656,
+    "body_len": 0.019,
+    "avg_word_length": 0.1598,
+    "has_question": 0.0041,
+    "has_exclamation": 0.0141,
+    "uppercase_ratio": 0.0526,
+    "hashtag_count": 0.0586,
+    "sentiment_compound": 0.0832,
+    "sentiment_positive": 0.0193,
+    "sentiment_negative": 0.055,
+    "is_reddit": 0.0084,
+    "is_youtube": 0.0001,
+    "is_bluesky": 0.0293,
+    "tech_keyword_count": 0.0254
+  },
+  "trained_at": "2026-11-19T18:42:14.072518"
+}

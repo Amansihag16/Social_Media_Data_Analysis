@@ -1,0 +1,119 @@
+[
+  {
+    "post_id": "bsky_301",
+    "post_text": "Delighted with the new open-source sentiment models released today! Token inference latency dropped by 50% on CPU. Brilliant breakthrough for real-time streaming analytics! #AI #nlp #datascience",
+    "author_handle": "ai_research.bsky.social",
+    "created_at": "2026-11-14T17:09:15.394468+00:00",
+    "like_count": 184,
+    "repost_count": 42,
+    "reply_count": 15,
+    "hashtags": [
+      "AI",
+      "nlp",
+      "datascience"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_302",
+    "post_text": "Is anyone else having major login issues and broken session timeouts today? The web app is completely unresponsive. Frustrating bug right in the middle of our sprint! #bug #outage #complaint",
+    "author_handle": "product_lead.bsky.social",
+    "created_at": "2026-11-15T11:09:15.394468+00:00",
+    "like_count": 96,
+    "repost_count": 31,
+    "reply_count": 24,
+    "hashtags": [
+      "bug",
+      "outage",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_303",
+    "post_text": "Building an automated ETL pipeline with PySpark and Delta Lake. Loving the ACID transactions and time-travel debugging capabilities! #databricks #pyspark #dataengineering",
+    "author_handle": "data_piper.bsky.social",
+    "created_at": "2026-11-16T07:09:15.394468+00:00",
+    "like_count": 245,
+    "repost_count": 68,
+    "reply_count": 19,
+    "hashtags": [
+      "databricks",
+      "pyspark",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_304",
+    "post_text": "Customer support reached out and resolved our billing dispute within 10 minutes. Exceptional and polite service! Faith restored. #customerservice #support",
+    "author_handle": "happy_client.bsky.social",
+    "created_at": "2026-11-16T15:09:15.394468+00:00",
+    "like_count": 132,
+    "repost_count": 14,
+    "reply_count": 8,
+    "hashtags": [
+      "customerservice",
+      "support"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_305",
+    "post_text": "The price increase without warning is unacceptable. Many users are requesting refunds and deleting their profiles. Terrible business move. #refund #billing #complaint",
+    "author_handle": "tech_critic.bsky.social",
+    "created_at": "2026-11-17T10:09:15.394468+00:00",
+    "like_count": 310,
+    "repost_count": 92,
+    "reply_count": 45,
+    "hashtags": [
+      "refund",
+      "billing",
+      "complaint"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_306",
+    "post_text": "Notes from our weekly data engineering sync: Bronze layer retains raw immutability, Silver standardizes schemas and deduplicates, Gold serves business aggregates to Power BI. #medallion #dataengineering",
+    "author_handle": "data_lead_emily.bsky.social",
+    "created_at": "2026-11-18T04:09:15.394468+00:00",
+    "like_count": 275,
+    "repost_count": 79,
+    "reply_count": 22,
+    "hashtags": [
+      "medallion",
+      "dataengineering"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  },
+  {
+    "post_id": "bsky_307",
+    "post_text": "Exploring vector search and RAG architecture for social media public sentiment monitoring. The embeddings capture semantic context quite well. #AI #nlp #technology",
+    "author_handle": "nlp_builder.bsky.social",
+    "created_at": "2026-11-18T12:09:15.394468+00:00",
+    "like_count": 158,
+    "repost_count": 36,
+    "reply_count": 12,
+    "hashtags": [
+      "AI",
+      "nlp",
+      "technology"
+    ],
+    "source_platform": "bluesky",
+    "ingestion_timestamp": "2026-11-18T18:20:33.403055+00:00",
+    "data_mode": "benchmark_sample"
+  }
+]

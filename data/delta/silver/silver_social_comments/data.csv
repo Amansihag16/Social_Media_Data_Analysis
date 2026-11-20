@@ -1,0 +1,11 @@
+video_id,comment_id,comment_text,author,likes,source_platform,ingestion_timestamp,sentiment_compound,sentiment_label
+yt_201,yt_c_1,Best explanation of Delta Lake Medallion architecture ever! Super clear.,dev_alex,45,youtube,2026-11-19T11:36:42.127003+00:00,0.8999,Positive
+yt_201,yt_c_2,Can you explain how to connect this to Power BI via Databricks SQL endpoint?,bi_specialist,18,youtube,2026-11-19T11:36:42.127003+00:00,0.0,Neutral
+yt_201,yt_c_3,"Awesome video, saved our team weeks of trial and error.",sarah_k,32,youtube,2026-11-19T11:36:42.127003+00:00,0.6369,Positive
+yt_202,yt_c_4,Mine overheats too while recording 4k60. Total waste of money.,phone_fanatic,112,youtube,2026-11-19T11:36:42.127003+00:00,-0.4754,Negative
+yt_202,yt_c_5,Customer service refused my return request because it was 15 days instead of 14. Terrible support.,john_d,84,youtube,2026-11-19T11:36:42.127003+00:00,-0.3818,Negative
+yt_203,yt_c_6,These DAX calculations for sentiment analysis KPIs are magnificent!,analyst_pro,29,youtube,2026-11-19T11:36:42.127003+00:00,0.636,Positive
+yt_203,yt_c_7,Great tutorial on connecting DirectQuery with Gold layer tables.,marco_b,14,youtube,2026-11-19T11:36:42.127003+00:00,0.6249,Positive
+yt_204,yt_c_8,Our production database went down for 8 hours. We lost thousands in transactions.,cto_startup,230,youtube,2026-11-19T11:36:42.127003+00:00,-0.3182,Negative
+yt_204,yt_c_9,Single point of failure in their control plane. Complete negligence.,infra_guru,154,youtube,2026-11-19T11:36:42.127003+00:00,-0.5106,Negative
+yt_205,yt_c_10,Delta Lake remains the most mature ecosystem with Databricks integration.,lakehouse_fan,38,youtube,2026-11-19T11:36:42.127003+00:00,0.4754,Positive

@@ -1,0 +1,32 @@
+complaint_keyword,issue_category,frequency,platform,sentiment_category,negative_count,sample_context
+support,Customer Support,54,reddit,Positive,22,"Surprise $9,400 cloud invoice due to serverless auto-scaling bug: Zero notification from vendor. A silent loop in an unh"
+support,Customer Support,40,bluesky,Positive,0,Our enterprise contract guarantees a 15-minute response time for business-critical outages. Our cluster has been down si
+bug,Usability & Bugs,28,reddit,Positive,10,"Surprise $9,400 cloud invoice due to serverless auto-scaling bug: Zero notification from vendor. A silent loop in an unh"
+slow,Performance,25,reddit,Negative,25,Server cluster thermal throttling and unexpected fan failure during heavy model training. Our dedicated GPU server rack 
+throttling,Performance,25,reddit,Negative,25,Server cluster thermal throttling and unexpected fan failure during heavy model training. Our dedicated GPU server rack 
+contract,Billing & Pricing,22,reddit,Negative,22,Unacceptable support delay: Priority 1 production ticket ignored for 36 hours (Case Study #8). Our enterprise contract g
+ticket,Customer Support,22,reddit,Negative,22,Unacceptable support delay: Priority 1 production ticket ignored for 36 hours (Case Study #8). Our enterprise contract g
+ignored,Customer Support,22,reddit,Negative,22,Unacceptable support delay: Priority 1 production ticket ignored for 36 hours (Case Study #8). Our enterprise contract g
+refund,Billing & Pricing,18,reddit,Positive,0,"Surprise $9,400 cloud invoice due to serverless auto-scaling bug: Zero notification from vendor. A silent loop in an unh"
+billing,Billing & Pricing,18,reddit,Positive,0,"Surprise $9,400 cloud invoice due to serverless auto-scaling bug: Zero notification from vendor. A silent loop in an unh"
+refund,Billing & Pricing,18,bluesky,Positive,0,A silent loop in an unhandled lambda exception caused thousands of zombie compute clusters to spin up overnight. The clo
+billing,Billing & Pricing,18,bluesky,Positive,0,A silent loop in an unhandled lambda exception caused thousands of zombie compute clusters to spin up overnight. The clo
+outage,Reliability,16,reddit,Negative,16,Major AWS us-east-1 network latency spike impacting DynamoDB and API Gateways. Our production API endpoints are throwing
+latency,Performance,16,reddit,Negative,16,Major AWS us-east-1 network latency spike impacting DynamoDB and API Gateways. Our production API endpoints are throwing
+errors,Usability & Bugs,16,reddit,Negative,16,Major AWS us-east-1 network latency spike impacting DynamoDB and API Gateways. Our production API endpoints are throwing
+failed,Reliability,15,reddit,Negative,15,Kudos to the Snowflake engineering team for zero-downtime cross-cloud failover. When AWS us-east-1 had network degradati
+outage,Reliability,14,bluesky,Negative,14,Our production API endpoints are throwing 504 Gateway Timeouts and 500 Internal Server Errors since 09:30 UTC. Database 
+errors,Usability & Bugs,14,bluesky,Negative,14,Our production API endpoints are throwing 504 Gateway Timeouts and 500 Internal Server Errors since 09:30 UTC. Database 
+throttling,Performance,11,youtube,Negative,11,Server cluster thermal throttling and unexpected fan failure during heavy model training | Production Architecture & Cod
+latency,Performance,11,youtube,Neutral,0,Major AWS us-east-1 network latency spike impacting DynamoDB and API Gateways | Production Architecture & Code Demo.
+bug,Usability & Bugs,11,bluesky,Negative,11,Our Spark driver JVM runs out of heap memory every 8 to 12 hours under constant micro-batch throughput. Heap dump shows 
+crashes,Reliability,10,reddit,Negative,10,Severe memory leak in PySpark 3.5.1 streaming jobs on Kubernetes causing daily pod OOM crashes. Our Spark driver JVM run
+support,Customer Support,10,youtube,Negative,10,Unacceptable support delay: Priority 1 production ticket ignored for 36 hours | Production Architecture & Code Demo.
+ticket,Customer Support,10,youtube,Negative,10,Unacceptable support delay: Priority 1 production ticket ignored for 36 hours | Production Architecture & Code Demo.
+ignored,Customer Support,10,youtube,Negative,10,Unacceptable support delay: Priority 1 production ticket ignored for 36 hours | Production Architecture & Code Demo.
+bug,Usability & Bugs,10,youtube,Positive,0,"Surprise $9,400 cloud invoice due to serverless auto-scaling bug: Zero notification from vendor | Production Architectur"
+contract,Billing & Pricing,10,bluesky,Positive,0,Our enterprise contract guarantees a 15-minute response time for business-critical outages. Our cluster has been down si
+failed,Reliability,9,bluesky,Negative,9,"When AWS us-east-1 had network degradation this morning, our replicated Snowflake databases in GCP failed over in under "
+crashes,Reliability,7,youtube,Negative,7,Severe memory leak in PySpark 3.5.1 streaming jobs on Kubernetes causing daily pod OOM crashes | Production Architecture
+slow,Performance,7,bluesky,Negative,7,"Our dedicated GPU server rack suffered acute thermal throttling after firmware update. Clock speeds dropped by 65%, prol"
+throttling,Performance,7,bluesky,Negative,7,"Our dedicated GPU server rack suffered acute thermal throttling after firmware update. Clock speeds dropped by 65%, prol"
